@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fredrik</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=earlysvahn&label=Profile%20views&color=0e75b6&style=flat" alt="earlysvahn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=earlysvahn" alt="earlysvahn" /></a> </p>
-
 - 🔭 I’m currently working at [Early Bird](https://earlybird.se)
 
 - 🌱 I’m currently learning **Golang**
