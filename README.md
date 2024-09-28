@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **home automation, .net, cooking**
 
-- 📫 How to reach me **fredriksvahn@outlook.com**
+- 📫 How to reach me **me@fsvahn.se**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
