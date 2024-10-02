@@ -2,11 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=earlysvahn&label=Profile%20views&color=0e75b6&style=flat" alt="earlysvahn" /> </p>
 
 - 🔭 I’m currently working at [Early Bird](https://earlybird.se)
-
-- 🌱 I’m currently learning **Golang**
-
-- 💬 Ask me about **home automation, .net, cooking**
-
 - 📫 How to reach me **me@fsvahn.se**
 
 <h3 align="left">Connect with me:</h3>
