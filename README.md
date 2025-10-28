@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fredrik</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=earlysvahn&label=Profile%20views&color=0e75b6&style=flat" alt="earlysvahn" /> </p>
 
 - 🔭 I’m currently working at [Early Bird](https://earlybird.se)
-- 📫 How to reach me **me@fsvahn.se**
+- 📫 How to reach me **fredrikfsvahn.se**
+
+Full-stack developer, hunter and dad with a focus on building systems that just work — from backend services to the home lab.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
