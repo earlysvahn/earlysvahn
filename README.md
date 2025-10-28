@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fredrik</h1>
 
 - 🔭 I’m currently working at [Early Bird](https://earlybird.se)
-- 📫 How to reach me **fredrikfsvahn.se**
+- 📫 How to reach me **fredrik@fsvahn.se**
 
 Full-stack developer, hunter and dad with a focus on building systems that just work — from backend services to the home lab.
 
