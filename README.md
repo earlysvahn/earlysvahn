@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Fredrik</h1>
-
 <p align="center">
-Full-stack developer, hunter and dad with a focus on building systems that just work — from backend services to the home lab.
+Full-stack developer focused on building reliable backend systems and cloud infrastructure.
 </p>
-
 <p align="center">
 <a href="https://earlybird.se"><img src="https://img.shields.io/badge/Currently-Early%20Bird-blue?style=flat-square" alt="Early Bird"/></a>
 <a href="mailto:fredrik@fsvahn.se"><img src="https://img.shields.io/badge/Email-fredrik%40fsvahn.se-red?style=flat-square" alt="Email"/></a>
@@ -15,18 +13,18 @@ Full-stack developer, hunter and dad with a focus on building systems that just 
 <div align="center">
 
 ### Backend:
-C# • .NET • Node.js • TypeScript • Express
+C# • .NET Core • Node.js • TypeScript • Go • SQL
 
 ### Frontend:
 React • SolidJS • Vue • JavaScript
 
 ### Cloud & DevOps:
-GCP • AWS • Kubernetes • Docker • Argo CD • Terraform • GitHub Actions
+GCP (Pub/Sub, Firestore, Cloud Run) • AWS • Azure • Kubernetes • Docker • Terraform • GitHub Actions
 
 ### Databases:
 PostgreSQL • MongoDB • MSSQL • Firestore
 
-### Architecture:
-REST APIs • Microservices • Event-driven • Domain-driven design • SAFe Agile
+### Architecture & Practices:
+REST APIs • Microservices • Event-driven • CI/CD • xUnit • NUnit • Jest • SAFe Agile
 
 </div>
