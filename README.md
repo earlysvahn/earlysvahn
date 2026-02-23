@@ -3,7 +3,7 @@
 Full-stack developer focused on building reliable backend systems and cloud infrastructure.
 </p>
 <p align="center">
-<a href="https://earlybird.se"><img src="https://img.shields.io/badge/Currently-Early%20Bird-blue?style=flat-square" alt="Early Bird"/></a>
+<a href="https://optiplan.se"><img src="https://img.shields.io/badge/Currently-Optiplan-blue?style=flat-square" alt="Early Bird"/></a>
 <a href="mailto:fredrik@fsvahn.se"><img src="https://img.shields.io/badge/Email-fredrik%40fsvahn.se-red?style=flat-square" alt="Email"/></a>
 <a href="https://linkedin.com/in/svahnfredrik"><img src="https://img.shields.io/badge/LinkedIn-svahnfredrik-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
 </p>
